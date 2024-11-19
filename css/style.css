@@ -1,0 +1,22 @@
+.icon{
+    font-size: 3em;
+    color: orange;
+    width: 1.75em;
+    height: 1.75em;
+    border-radius: 50%;
+    background-color: #eee;
+    line-height: 1.75em!important;
+}
+
+.text{
+    color: #aaa;
+    font-weight: 400;
+}
+
+.spacer{
+    height: 1px;
+    background-color: #eee;
+    margin: auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
